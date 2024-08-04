@@ -49,6 +49,12 @@ class Musics {
                 singer: ' 单依纯',
                 songUrl: 'yy/3.mp3',
                 imageUrl: 'images/20200904134306596847.jpg'
+            },{
+                
+                title: 'Trade (追吻辰星 remix)',
+                singer: ' 追吻辰星',
+                songUrl: 'yy/5.mp3',
+                imageUrl: 'images/20240410132533198946.jpg'
             }
         ]
     }
